@@ -1,5 +1,5 @@
 PKG_NAME := pypi-requests_unixsocket
-URL = https://files.pythonhosted.org/packages/c3/ea/0fb87f844d8a35ff0dcc8b941e1a9ffc9eb46588ac9e4267b9d9804354eb/requests-unixsocket-0.3.0.tar.gz
+URL = https://files.pythonhosted.org/packages/22/80/44636b363e75af7f5e6ac0571137466fec66e47016179139d0019a453ab7/requests_unixsocket-0.4.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
